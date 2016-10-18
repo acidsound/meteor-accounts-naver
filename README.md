@@ -14,3 +14,7 @@ Install
 ```
 meteor add spectrum:accounts-naver
 ```
+
+How to use
+-----------
+http://slides.com/acidsound/accounts-naver-meteor-package#/
